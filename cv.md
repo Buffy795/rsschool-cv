@@ -6,7 +6,7 @@
 + **Phone:** +7-963-608-79-57
 + **Email:** vlada0795@gmail.com
 + **Telegram:** @Buffy_795
-+ **GitHub:** [Buffy795] (https://github.com/Buffy795)
++ **GitHub:** [Buffy795](https://github.com/Buffy795)
 
 ---
 
