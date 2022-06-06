@@ -1,14 +1,14 @@
 # Vlada Makeeva
 
-=====
+---
 
 ### Contacts:
-**Phone:** +7-963-608-79-57
-**Email:** vlada0795@gmail.com
-**Telegram:** @Buffy_795
-**GitHub:** [Buffy795] (https://github.com/Buffy795)
++ **Phone:** +7-963-608-79-57
++ **Email:** vlada0795@gmail.com
++ **Telegram:** @Buffy_795
++ **GitHub:** [Buffy795] (https://github.com/Buffy795)
 
-=====
+---
 
 ### About me:
 
@@ -19,7 +19,7 @@ I'm 28 years old and I really want to become a FrontEnd Developer. I believe tha
 * team work;
 * self-motivated.
 
-=====
+---
 
 ### Skills:
 
@@ -28,7 +28,7 @@ I'm 28 years old and I really want to become a FrontEnd Developer. I believe tha
 * Adobe Photoshop;
 * Git / GitHub;
 
-=====
+---
 
 ### Code Examples:
 
@@ -65,6 +65,26 @@ I'm 28 years old and I really want to become a FrontEnd Developer. I believe tha
 }
 ```
 
-=====
+---
+
+### Education:
+
+* Russian State University for Humanities 
+    + Economics (Bachelor Degree);
+
+* National Research University "Moscow Power Engineering Institute"
+    + Economics (Master Degree);
+
+* "HTML/CSS for begginers" Course by Dmitrii Valak;
+* "Basics of programming" Course by Dmitrii Lavrik;
+
+---
+
+### Languages:
+
+* Russian - native;
+* English - C1;
+* German - A1.
+
 
 
