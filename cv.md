@@ -1,6 +1,5 @@
 # Vlada Makeeva
 
----
 
 ### Contacts:
 + **Phone:** +7-963-608-79-57
@@ -15,7 +14,7 @@
 I'm 28 years old and I really want to become a FrontEnd Developer. I believe that my abilities and social skills will help me to reach my goal.
 
 #### My strengths:
-* quiq learner;
+* quick learner;
 * team work;
 * self-motivated.
 
