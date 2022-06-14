@@ -1,0 +1,312 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    margin: 0;
+
+    font-family: 'Kalam', cursive;
+    font-size: 1rem;
+    line-height: 1.2rem;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+.container {
+    width: 100%;
+    max-width: 938px;
+    margin: 0 auto;
+}
+
+/*Page
+=======================================*/
+
+.page {
+    width: 100%;
+    
+
+    background: #eee url(assets/img/bg.jpg) center repeat;
+}
+
+/*HEADER
+=======================================*/
+
+.header {
+    background-color: #765b65;
+}
+
+.header-nav {
+    padding-top: 32px;
+    padding-bottom: 20px;
+
+    text-align: right;
+}
+
+.header-nav-link {
+    margin-left: 40px;
+
+    font-size: 1.5rem;
+    text-decoration: none;
+    
+    color: #fff;
+
+    transition: color .2s linear;
+}
+
+.header-nav-link:hover {
+    color: rgb(212, 189, 241);
+    text-decoration: underline;
+}
+
+/*MAIN
+=======================================*/
+
+.pink-layer {
+    margin: 0;
+    padding-bottom: 39px;
+    padding-top: 39px;
+    background-color: #d29db1;
+    position: relative;
+
+    border-radius: 10px 10px 10px 10px;
+}
+
+.light-layer {
+    margin: 0 51px;
+    padding-top: 272px;
+
+    background-color: #ededec;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.rectangle {
+    width: 888px;
+    height: 135px;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    z-index: 1;
+
+    background-color: #d29db1;
+}
+
+.avatar {
+    position: absolute;
+    top: 130px;
+    left: 100px;
+    z-index: 3;
+
+    border-radius: 50%;
+}
+
+.ellipse {
+    width: 278px;
+    height: 278px;
+    position: absolute;
+    top: 119px;
+    left: 89px;
+    z-index: 2;
+
+    background-color: #765b65;
+    border-radius: 50%;
+}
+
+.cv-header {
+    position: absolute;
+    top: 270px;
+    left: 400px;
+    z-index: 4;
+
+
+    font-size: 3.3rem;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.columns {
+    display: flex;
+}
+
+.left-column {
+    height: 569px;
+    margin: 117px 7px 7px 0;
+    
+    background-color: #dac4cc;
+}
+
+h2 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.box {
+    width: 221px;
+    height: 42px;
+    padding-top: 15px;
+    padding-left: 45px;
+    position: absolute;
+    
+    background-color: #765b65;
+}
+
+.contacts {
+    left: 110px;
+    top: 408px;
+}
+
+.text-left {
+    width: 342px;
+    padding: 86px 0 135px 15px;
+    
+    font-size: 1rem;
+    color: #fff;
+}
+
+.line-h {
+    width: 360px;
+    height: 8px;
+    position: absolute;
+    top: 1003px;
+    left: 51px;
+
+    background-color: #765b65;
+}
+
+.line-v {
+    width: 8px;
+    height: 695px;
+    position: absolute;
+    top: 315px;
+    left: 403px;
+
+    background-color: #765b65;
+}
+
+.skills {
+    left: 110px;
+    top: 700px;
+    padding-left: 70px;
+}
+
+.link-git {
+    color: #fff;
+}
+
+.right-column {
+    padding-top: 102px;
+}
+
+.about-me {
+    left: 530px;
+    top: 372px;
+}
+
+.text-right {
+    margin-top: 58px;
+    padding: 0 72px 97px 72px;
+
+    text-align: justify;
+    font-size: 1rem;
+    color: #765b65;
+}
+
+.strengths {
+    left: 530px;
+    top: 806px;
+    padding-left: 15px;
+}
+
+.education {
+    left: 350px;
+    top: 1046px;
+}
+
+.text-center {
+    margin-top: 68px;
+    padding-left: 100px;
+    padding-bottom: 97px;
+
+    text-align: justify;
+    font-size: 1rem;
+    color: #765b65;
+}
+
+.languages {
+    left: 350px;
+    top: 1341px;
+    padding-left: 40px;
+}
+
+.code {
+    left: 350px;
+    top: 1570px;
+    padding-left: 70px;
+}
+
+.code-block {
+    margin-top: 68px;
+
+    font-size: 1rem;
+    color: #765b65;
+}
+
+.up {
+    top: 2330px;
+    left: 700px;
+
+    background-color: #d29db1;
+}
+
+.up-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+/*FOOTER
+=======================================*/
+
+.footer {
+    
+    background-color: #765b65;
+}
+
+.footer-blocks {
+    display: flex;
+}
+
+.github {
+    margin: 23px 100px 34px 0;
+}
+
+.rss {
+    margin-top: 23px;
+}
+
+.date {
+    margin-left: 300px;
+    margin-top: 105px;
+
+    text-align: right;
+    font-size: 2.8rem;
+    color: #fff;
+    
+}
+
+
