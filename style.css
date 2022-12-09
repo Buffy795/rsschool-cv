@@ -20,6 +20,10 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0;
 }
 
+ul {
+    margin: 0;
+}
+
 .container {
     width: 100%;
     max-width: 1000px;
@@ -38,16 +42,59 @@ h1, h2, h3, h4, h5, h6 {
     justify-content: right;
     gap: 40px;
     font-size: 1.5rem;
+    list-style-type: none;
+}
+
+.header-nav__item {
+    margin-top: 15px;
+    text-decoration: none;
 }
 
 .header-nav__link {
-    margin-top: 15px;
     color: #eee;
     text-decoration: none;
 }
 
 /*Main==========================================================*/
 .main {
+    padding-top: 35px;
+    height: 100%;
     background-color: #a8b890;
+    border-radius: 10px;
+}
+
+.empty-block {
+    background-color: #e2d2d7;
+    height: 165px;
+    margin: 0 51px;
+    border-radius: 10px;
+}
+
+.name-block {
+    height: 120px;
+    position: relative;
+}
+
+.photo {
+    position: absolute;
+    top: -65%;
+    left: 10%;
+    border-radius: 50%;
+}
+
+.name {
+    margin: 2px;
+    padding-top: 50px;
+    padding-right: 61px;
+    color: #eee;
+    text-transform: uppercase;
+    text-align: right;
+    font-size: 4rem;
+}
+
+.info-block {
+    background-color: #e2d2d7;
+    margin: 0 51px;
+    padding-top: 80px;
     border-radius: 10px;
 }
