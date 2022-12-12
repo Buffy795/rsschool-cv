@@ -80,6 +80,7 @@ ul {
     top: -65%;
     left: 10%;
     border-radius: 50%;
+    border: 10px solid #5e7054;
 }
 
 .name {
