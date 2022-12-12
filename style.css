@@ -93,9 +93,27 @@ ul {
     font-size: 4rem;
 }
 
+/*Info-block==========================================================*/
+
 .info-block {
     background-color: #e2d2d7;
     margin: 0 51px;
     padding-top: 80px;
     border-radius: 10px;
+}
+
+.flex-container {
+    display: flex;
+    gap: 80px;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    min-width: 300px;
+}
+
+.general {
+    min
 }
