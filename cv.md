@@ -28,3 +28,54 @@ I'm 30 years old and I really want to become a FrontEnd Developer. I believe tha
 * Git / GitHub;
 
 ---
+
+### Code Examples:
+
+
+```
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="animation_style.css">
+        <title>Square anima</title>
+    </head>
+
+    <body>
+        <div class="square">
+
+        </div>
+    </body>
+</html>
+```
+
+```
+.square {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+
+    background-color: rgb(185, 72, 176);
+
+    animation-name: translateX;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}
+```
+
+---
+
+### Education:
+
+* Russian State University for Humanities 
+    + Economics (Bachelor Degree);
+
+* National Research University "Moscow Power Engineering Institute"
+    + Economics (Master Degree);
+
+* "HTML/CSS for begginers" Course by Dmitrii Valak;
+* "Basics of programming" Course by Dmitrii Lavrik;
+* "JS/FE Pre-School 2022Q4"
+
+---
