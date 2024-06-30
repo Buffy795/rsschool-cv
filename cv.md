@@ -66,6 +66,13 @@ I'm 30 years old and I really want to become a FrontEnd Developer. I believe tha
 
 ---
 
+### Experience:
+
+* [Minesweeper](https://buffy795.github.io/Portfolio/minesweeper/) [Исходный код](https://github.com/Buffy795/Portfolio/tree/minesweeper/minesweeper)
+* [Gem puzzle](https://buffy795.github.io/Portfolio/gem-puzzle/) [Исходный код](https://github.com/Buffy795/Portfolio/tree/gem-puzzle/gem-puzzle)
+
+---
+
 ### Education:
 
 * Russian State University for Humanities 
@@ -79,3 +86,9 @@ I'm 30 years old and I really want to become a FrontEnd Developer. I believe tha
 * "JS/FE Pre-School 2022Q4"
 
 ---
+
+### Languages:
+
+* Russian - native;
+* English - C1;
+* German - A1.
